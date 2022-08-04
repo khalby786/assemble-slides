@@ -1,0 +1,14 @@
+{
+  "name": "lightning-talk",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open true --log info",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.34.3",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  }
+}
