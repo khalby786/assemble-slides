@@ -23,12 +23,19 @@ title: '[object Object]'
 
 hello
 
+![Fear will keep them in line](/form.jpg)
+
 <style>
 h1, p {
   text-align: center;
 }
+
+img {
+  max-width: 100%;
+}
 </style>
 
+<!-- Hello, and welcome to Assemble!  -->
 
 ---
 
@@ -63,7 +70,7 @@ h1, p {
   }
 </style>
 
-<!-- Hello, and welcome to Assemble! I'm Khaleel - most of you might know me as @thevectorizedonut -->
+<!-- **My name is Khaleel** - **or** @thevectorizedonut  -->
 
 ---
 layout: center
@@ -73,13 +80,13 @@ layout: center
 
 as if I'm participating for the (Un)Talent Show
 
-<!-- and I'd like to talk about an issue I face personally and how it's also an issue on a wider scale affecting students across the world. -->
+<!-- and I'd like to talk about an issue, which is more personal and social at the same time. -->
 
 ---
 
 <!-- enable this in prod - high perf -->
-<GHProfile.vue />
-<!-- ![svg](/slides.svg) -->
+<!-- <GHProfile.vue /> -->
+![svg](/slides.svg)
 
 <style>
   svg {
@@ -87,7 +94,7 @@ as if I'm participating for the (Un)Talent Show
   }
 </style>
 
-<!-- Now, as some of you may or may not have figured out yet, I create really dumb and pointless stuff using code. -->
+<!-- Now, as some of you may or may not have figured out yet, I create really dumb and pointless stuff using code and get excited when I create some **crazy** stuff using code. -->
 
 ---
 layout: center
@@ -129,7 +136,7 @@ layout: center
   }
 </style>
 
-<!-- But I also happen to be a student, so I've got school to attend, and at this point in life, it's seemingly more important than my secret side affair with Vue. And because of that, I have to prioritize and balance both without either affecting the other - something I've admittedly failed at - and save the world. -->
+<!-- As a student, I've a lot to "study", and complete my homework and, at this point in life, it's seemingly more important than my secret side affair with Vue. For me, this is a rope walk! And because of that, I have to balance the world of academics and my world of passions. -->
 
 ---
 layout: center
@@ -166,12 +173,14 @@ layout: center
 # Why don't they teach Bash commands at school? 
 <v-click>
 
-# Why do donuts have those holes in the center?
+# Why do donuts 🍩 have those holes in the center?
 
 </v-click>
 <v-click>
 
 # What is Obama's last name?
+
+![Obama Why GIF](/obama.gif)
 
 </v-click>
 
@@ -241,6 +250,12 @@ layout: center
 *hint: "Alexa, sing a song"*
 
 <!-- In a growing world where technology is heavily dominant, -->
+
+---
+layout: center
+---
+
+![All cool technological stuff I can think of after not sleeping for 24 hours](/technology.png)
 
 ---
 layout: center
@@ -324,7 +339,7 @@ Society is becoming more and more dependent on technology, and it is essential t
 layout: center
 ---
 
-![Steven He will send him to Jesus](/send-you-to-jesus.jpg)
+![EMOTIONAL DAMAGE](/emotional-damage.gif)
 
 <!-- There's also an extreme to this: because of a lack of proper CS education, various coding platforms have been started, and while that is good, in some countries (especially Asian countries, particularly India) it has created a sense of exclusivity - parents think it is the next big thing, so they force their kids to learn to code even though they have no intention of it. -->
 
@@ -332,9 +347,9 @@ layout: center
 layout: center
 ---
 
-Leaked image of Anya Forger studying CS to get Stella Stars.
+Leaked image of Anya Forger studying CS to get Stella Stars
 
-![anya is feeling lonely, anya doesn't have a mother](/anya.jpg)
+![anya is feeling lonely, anya doesn't have a mother](/anya.gif)
 
 <style>
   img {
@@ -370,9 +385,16 @@ layout: center
 
 # This presentation is **not** sponsored by Hack Club.
 
+![Gordon Ramsay not amused](/gordon-ramsay.webp)
+
 <style>
   h1 {
     opacity: 0.2;
+  }
+
+  img {
+    height: 200px;
+    opacity: 0.5;
   }
 </style>
 
@@ -400,4 +422,4 @@ layout: center
 
 # Thanks for having me
 
-The Organization will shortly be suppressing everyone here.
+The Organization agents among you will shortly be suppressing everyone else present here. 
